@@ -8,3 +8,5 @@ to develop this gitbook:
 
 
 markdown cheatsheet ([here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+
+Project setup by @SHoogland
