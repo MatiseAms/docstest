@@ -33,3 +33,26 @@ Every employee has access to the following services:
 - Github
 - Adobe tools
 - Sketch
+
+#TODO
+
+expand the following list
+##### onboarding nieuwe matise'r
+- Grid functie
+- gebruik Terminal/Grunt
+- Begrijpen opbouw projecten (code)
+- Begrijpen 'algemene' workflow
+- Sass
+- PHP - introductie
+- Dropbox
+- docs.matise.design
+	- hoe en waar vind ik de juiste info
+- Trello
+- Jira
+- Google drive
+- install yo matise - npm 
+- BAG (brand appearance guide)
+- Gebruik maken van GIT
+- Wanneer committen?
+- Hoe goed moet een 1ste en 2de staging zijn
+- email handtekening

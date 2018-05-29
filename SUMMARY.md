@@ -9,7 +9,7 @@
 * [Onboarding](onboarding/index.md)
 * [Reference files](references/files.md)
 
-### gitbook summary example
+<!-- ### gitbook summary example
 
 * [Paragraphs](syntax/markdown.md#paragraphs)
 
@@ -21,5 +21,4 @@
     * [Paragraphs](syntax/markdown.md#paragraphs)
     * [HTML](syntax/markdown.md#html)
 	    * [Indents](syntax/markdown.md#footnotes)
-* [Release notes](https://github.com/GitbookIO/gitbook/blob/master/CHANGES.md)
-
+* [Release notes](https://github.com/GitbookIO/gitbook/blob/master/CHANGES.md) -->
